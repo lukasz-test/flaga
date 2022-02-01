@@ -85,7 +85,7 @@ Napisz:
 ```
 nano settings.ini
 ```
-po spacji wpisz nazwę swojej domeny np (bez "www") wg wzoru:
+po spacji wpisz nazwę swojej domeny np (bez "www") wg wzoru. **(po pliku nano poruszasz się strzałkami)**:
 ```
 domena = nazwa_domeny.pl
 ```
